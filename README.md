@@ -40,7 +40,7 @@ pip install gTTS
 
 ## File Structure
 
-- `script.py`: The main script file containing the text-to-speech conversion logic.
+- `main.py`: The main script file containing the text-to-speech conversion logic.
 - `log.json`: A JSON file that stores the log of converted texts, their IDs, languages, and genders.
 - `Outputs/`: A directory where the generated audio files are saved in MP3 format with a random ID in the filename (e.g., `output_abcd12.mp3`).
 
