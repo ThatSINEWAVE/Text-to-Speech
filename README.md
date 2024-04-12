@@ -15,6 +15,12 @@ This script allows you to convert text into speech and save the audio file in th
 - Create an "Outputs" folder to store the generated audio files
 - Print the path to the saved audio file
 
+<div align="center">
+
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
+
 ## Prerequisites
 
 - Python 3.x
