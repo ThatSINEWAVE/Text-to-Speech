@@ -1,6 +1,6 @@
 <div align="center">
 
-# Code of Conduct - Telegram-Logger
+# Code of Conduct - Text-to-Speech
 
 </div>
 
