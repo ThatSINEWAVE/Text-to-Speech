@@ -44,6 +44,12 @@ pip install gTTS
 4. The script will convert the text to speech and save the audio file in the "Outputs" folder.
 5. The path to the saved audio file will be printed in the console.
 
+<div align="center">
+
+# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## File Structure
 
 - `main.py`: The main script file containing the text-to-speech conversion logic.
