@@ -46,7 +46,7 @@ pip install gTTS
 
 <div align="center">
 
-# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
 
 </div>
 
